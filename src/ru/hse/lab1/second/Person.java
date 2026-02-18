@@ -3,7 +3,7 @@ package ru.hse.lab1.second;
 /**
  * Represents a person with name and age.
  * @author Егор Моргунов
- * @version 1.0
+ * @version 1.1
  * @since 2026
  */
 
