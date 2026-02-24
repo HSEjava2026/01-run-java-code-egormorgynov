@@ -45,9 +45,7 @@ public final class SumCalculator {
 
             // 3) Must have at least one digit to be a number
             if (i >= text.length() || !Character.isDigit(text.charAt(i))) {
-                // Not a number token, skip this character (or sign) and continue
-                // Debug if you want:
-                // System.err.println("Skipping non-number at position " + i + " in: [" + text + "]");
+
                 continue;
             }
 

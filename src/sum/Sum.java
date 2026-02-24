@@ -1,3 +1,5 @@
+package sum;
+
 public final class Sum {
 
     private Sum() {
